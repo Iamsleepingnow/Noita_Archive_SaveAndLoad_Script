@@ -1,2 +1,3 @@
-# Noita_Archive_SaveAndLoad_Script
-Save and load script by me for game Noita.
+# Noita存档备份程序
+
+此脚本的UI部分是使用中文来写的，没有做英文适配。

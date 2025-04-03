@@ -4,6 +4,7 @@
 Python版本：3.10.10
 
 > （我是初学者，写代码比较菜）
+> 详细介绍请看Bilibili专栏：https://www.bilibili.com/read/cv41214908/
 
 # 构建方法
 

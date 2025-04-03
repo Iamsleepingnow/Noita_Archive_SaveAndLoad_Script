@@ -20,3 +20,4 @@ Python版本：3.10.10
   - 使用之前的方法进入工程中的Python虚拟环境
   - 使用`python -m pip install pyinstaller`来安装一下pyinstaller
   - 对py脚本进行打包：`pyinstaller -F --noconsole -n <程序名称> -i ./UI/Icon.ico NoitaSLScript3.py`
+  - 当Powershell提示`INFO: Build complete!`后，将`./dist/`中的exe执行文件、`./UI`文件夹、`./Images`文件夹放在同一路径中即可完成打包
